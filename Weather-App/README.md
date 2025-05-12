@@ -13,7 +13,7 @@ A modern, responsive weather app built with React.js that allows users to search
 ⚙️ Uses OpenWeatherMap API for real-time data
 
 🖼️ Demo
-Live URL: [Add your deployed site link here]
+Live URL: https://weatherapp-teal-six.vercel.app/
 Or run locally with the instructions below.
 
 🛠️ Tech Stack
